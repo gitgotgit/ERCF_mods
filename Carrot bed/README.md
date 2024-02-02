@@ -1,7 +1,7 @@
 # Carrot Bed
 A bracket designed to mount twin 2020 extrusions on top of my Voron 2.4 as a mount for the ERCF.
 
-This is sized to work with the panels on my Voron, top panel 4mm, side panel 6mm. If you need other sizes I've provided the CAD drawing which can be easily edited, or DM me (ByteSized on the Voron Discord).
+This is sized to work with the panels on my Voron, top panel 4mm, side panel 6mm (I can't remember if mine are the standard thickness). If you need other sizes I've provided the CAD drawing which can be easily edited, or DM me (ByteSized on the Voron Discord).
 - for the multicolour print download "Bracket" and all "Carrot slices", otherwise just download the Bracket.
 - print carrot side down
 
