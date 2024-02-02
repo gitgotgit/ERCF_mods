@@ -5,7 +5,7 @@ This is sized to work with the panels on my Voron, top panel 4mm, side panel 6mm
 - for the multicolour print download "Bracket" and all "Carrot slices", otherwise just download the Bracket.
 - print carrot side down
 
-## Hardware
+### Hardware
 - length of the two 2020 extrusions will be the overall width of your printer - ie, width of the printer frame + 2*side_panel_width
 - 6 x hammer head or sprung ball T nuts
 - 4 x 10mm M5 Button Head
