@@ -2,9 +2,10 @@
 A bracket designed to mount twin 2020 extrusions on top of my Voron 2.4 as a mount for the ERCF.
 
 This is sized to work with the panels on my Voron, top panel 4mm, side panel 6mm (I can't remember if mine are the standard thickness). If you need other sizes I've provided the CAD drawing which can be easily edited, or DM me (ByteSized on the Voron Discord).
-- 
+
+- The CAD model is mostly parametric, if you're familiar with Fusion 360 you can change user parameters for things like height, panel thickness, etc.
 - for the multicolour print download "Bracket" and all "Carrot slices", otherwise just download the Bracket.
-- print carrot side down
+- print carrot side down.
 
 ### Hardware
 - length of the two 2020 extrusions will be the overall width of your printer - ie, width of the printer frame + 2*side_panel_width
